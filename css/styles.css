@@ -1,0 +1,48 @@
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after{
+    font-size: 52px;
+    padding-left: 1px;
+  }
+  .services-2 .icon span {
+      padding-right: 0.8rem;
+  }
+  .heading-section .subheading{
+      color: #336699;
+  }
+
+  .owl-carousel.home-slider .slider-item .slider-text h2{
+    color:#ff9933;
+  }
+
+  .sous-titre{
+      color:#ff9933; 
+  }
+  h4{
+    color:#ff9933;  
+  }
+  p{
+    color:#336699;  
+  }
+  .services-2 .text h4{
+    
+  }
+  .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
+      font-size: 13px;
+  }
+  h2{
+      color: #336699;
+  }
+
+  .services .media-body h3{
+    color: #336699;
+  }
+
+  .testimony-section .overlay{
+      background: #ffb770;
+  }
+
+  .heading-section.heading-section-white h2{
+    color: white;
+  }
+  .heading-section.heading-section-white .subheading{
+    color: white;
+  }
